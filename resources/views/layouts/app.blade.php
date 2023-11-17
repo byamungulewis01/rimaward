@@ -69,7 +69,7 @@
                         <li class="nav-item dropdown"><a class="nav-link" href="{{ route('contact') }}" role="button">Contact</a></li>
                     </ul>
                     <a class="btn btn-outline-primary rounded-pill btn-sm border-2 d-block d-lg-inline-block ms-auto my-3 my-lg-0"
-                        href="" target="_blank">Ishusho Art</a>
+                        href="https://ishushoarts.org/" target="_blank">Ishusho Art</a>
                 </div>
             </nav>
         </div>
