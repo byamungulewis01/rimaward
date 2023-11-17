@@ -40,4 +40,4 @@ jobs:
         server: ishushoarts.org
         username: u873786113.rimaward
         password: Rimaward@12345
-        server-dir: /public_html/rimaward/
+        server-dir: /
