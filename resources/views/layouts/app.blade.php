@@ -66,6 +66,7 @@
                         <li class="nav-item"><a class="nav-link" href="{{ route('index') }}" role="button">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('leadership') }}" role="button">Staff members</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('about') }}" role="button">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#" role="button">Movie Week</a></li>
                         <li class="nav-item dropdown"><a class="nav-link" href="{{ route('contact') }}" role="button">Contact</a></li>
                     </ul>
                     <a class="btn btn-outline-primary rounded-pill btn-sm border-2 d-block d-lg-inline-block ms-auto my-3 my-lg-0"
